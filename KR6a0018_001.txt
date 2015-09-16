@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:10.591833
+#+DATE: 2015-08-30 19:28:12.169555
 #+TITLE: 信佛功德經
 #+PROPERTY: CBETA_ID T01n0018
 #+PROPERTY: ID KR6a0018
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 018
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0018_T_000-0255a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0018_T_001-0255a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.18[No.1(18)]¶
-
- 佛說信佛功德經¶
+No. 18 [No. 1(18)]¶
+佛說信佛功德經¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
@@ -23,8 +22,7 @@ No.18[No.1(18)]¶
 一時，佛在阿拏迦城菴羅園中，¶
 與大眾俱。爾時，尊者舍利弗，食時著衣持鉢，¶
 入阿拏迦城，於其城中，次第乞已，復還¶
-本處，收衣洗足，敷座而食。飯食訖已，往¶
-詣佛所，頭面禮足，於一面立，合掌向佛，而¶
+本處，收衣洗足，敷座而食。飯食訖已，往詣佛所，頭面禮足，於一面立，合掌向佛，而¶
 作是言：「世尊！我今於佛深起信心。何以故？¶
 謂佛神通最勝無比，所有過現未來沙門婆¶
 羅門等，尚無有能知佛神通，況復過者！豈¶
